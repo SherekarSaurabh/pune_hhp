@@ -8,3 +8,6 @@ circle_circumference = circle.circumference(radius)
 
 print(f"Circle area: {circle_area}")
 print(f"Circle circumference: {circle_circumference}")
+
+print(f"Circle area: {circle_area}")
+print(f"Circle circumference: {circle_circumference}")
